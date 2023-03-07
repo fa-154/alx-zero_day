@@ -1,4 +1,10 @@
 #!/bin/bash
 echo "ALX"
-#!/bin/bash
-echo "ALX"
+^c
+^e
+^C
+
+:wq
+C
+^C
+^cat
